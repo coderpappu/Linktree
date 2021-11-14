@@ -1,0 +1,93 @@
+
+.head_body{
+    background-image: url(img/svg\ \(1\).png);
+    width: 100%;
+    height: 342px;
+}
+.link_TreeMan_profile {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translate(-50%, 50px);
+}
+
+.link_TreeMan_profile img {
+    text-align: center;
+}
+
+.link_TreeMan_profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.user_name h3 {
+    font-family: Source Sans Pro;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 6px;
+}
+
+.user_name {
+    border-bottom: 1px solid #ddd;
+}
+.user_bio h4 {
+    font-size: 14px;
+    color: #c3c3c3;
+    font-family: sans-serif;
+}
+.icon img {
+    width: 6%;
+    float: left;
+    /* margin-right: 20px; */
+    margin-left: 20px;
+    margin-top: -1%;
+}
+.social_link_sec {
+    /* width: 648px;
+    height: 72px; */
+    background: #00e8ff47;
+    margin: 16px 0px 0px 0px;
+    padding: 17px;
+    border-radius: 11px;
+    /* box-shadow: 2px 2px 2px #fff, #2px 2px 2px #ddd; */
+    text-align: center;
+}
+
+.link a {
+    text-decoration: none;
+    list-style: none;
+    font-size: 22px;
+    text-align: center;
+}
+.social_link_sec a {
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* @media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  } */
+
+  section.linkTree_footer {
+    width: 100%;
+    height: 57px;
+    background: #0037ffba;
+    margin-top: 164px;
+    text-align: center;
+    padding: 22px;
+    color: #fff;
+}
+
+.footer_copyright p {
+    font-size: 16px;
+    font-family: 'Source Sans Pro';
+}
+.link {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+}
